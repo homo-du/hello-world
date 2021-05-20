@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+This is my first repository.
+Endless life,forever learning.
